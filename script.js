@@ -21,5 +21,5 @@ revealOnScroll();
 function sendMessage(e) {
   e.preventDefault();
   alert("Message Sent Successfully ✅");
-  event.target.reset();
+  e.target.reset();
 }
