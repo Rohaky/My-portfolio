@@ -533,3 +533,7 @@ body,
   );
   color: white;
 }
+
+.navbar nav a:hover {
+  color: var(--accent);
+}

@@ -1,6 +1,4 @@
-document.querySelector(".btn").addEventListener("click", () => {
-  alert("Thanks for contacting Rohak!");
-});
+
 //sections appearing smoothly one by one
 const sections = document.querySelectorAll("section");
 
